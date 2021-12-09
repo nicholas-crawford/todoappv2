@@ -1,0 +1,10 @@
+.TodoItem {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.TodoItem--done {
+    color:grey;
+    text-decoration: line-through;
+}
